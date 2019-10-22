@@ -1,0 +1,5 @@
+package com.akshay.mvc_languages.models;
+
+public class Language {
+
+}

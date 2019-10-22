@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+528037509.index
+611902680.index
+610077441.index
+1646814164.index
+3829998119.index
+4099427194.index
+2622976610.index
+3724177927.index
+1314753643.index
+2302494143.index
+2649563111.index

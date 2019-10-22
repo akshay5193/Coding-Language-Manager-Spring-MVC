@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1309756493.index
+\Survey\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1445203579.index
+\hellohuman\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\948845935.index
+\DateTime\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4183693249.index
+\Counter\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2396108730.index
+\MVC_CrudOperations_Java\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4254695689.index
+\GuessTheCode\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\506421352.index
+\NinjaGold\src\main\java
+D:\Coding Dojo\java_stack\Spring Workspace\Spring_Projects\Languages_MVC_CRUD\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1806172173.index
+\MVC_Demo\src\main\java
